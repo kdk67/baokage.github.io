@@ -1,67 +1,66 @@
-Package: com.autolead72.autolead
+Package: com.kdk72.autolead
 Version: 7.2
 Section: System
-Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.autolead72.xcon,jetslammed,socat,com.autolead72.hookkeyboard,com.autolead72.icontool,com.cydiageek.coysim,com.autolead72.locationfaker8910
-Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+Maintainer: NTNghia
+Depends: com.conradkramer.open, sqlite3, kr.iolate.simulatetouch, com.autopear.installipa, zip, jp.ashikase.mousesupport, sudo, ch.ringwald.hidsupport, com.rbt.useragentchanger, unzip, ws.hbang.repower, veency, rsync, com.autolead72.xcon, jetslammed, socat, com.autolead72.hookkeyboard, com.autolead72.icontool, com.cydiageek.coysim, com.autolead72.locationfaker8910
+Conflicts: vn.gsm.locationfaker8, com.yourepo.dviet92.xcon, vn.gsm.xcon, com.n00neimp0rtant.xcon, com.yourepo.cml.locationfakerios89, com.yourepo.cml.xcon, com.yourepo.cml.hookkeyboard, com.yourepo.cml.hookkeyboardver2
 Architecture: iphoneos-arm
 Filename: ./debs/autolead_7.2_iphoneos-arm.deb
-Size: 243078
-MD5sum: 4cdd28527f8f0d5a87907ec860b7dc7d
+Size: 243044
+MD5sum: 1164cff69408d2a9cbf8a0ebed8c4424
 Description: Auto Lead iOS 8 - 10.2 .....................................
 Name: autolead
 Author: VoAazon <xxx@gmail.com>
-Depiction: http://45.77.32.187/repo/ioslead72/debs/com.autolead72.autolead/FILE/index.html
-Icon: http://itiaprepo.com/tiz38/test.png
 
-Package: com.autolead72.hookkeyboard
+Package: com.kdk72.hookkeyboard
 Version: 7.2
 Section: Tweaks
+Maintainer: NTNghia
+Depends: com.conradkramer.open, sqlite3, kr.iolate.simulatetouch, com.autopear.installipa, zip, jp.ashikase.mousesupport, sudo, ch.ringwald.hidsupport, com.rbt.useragentchanger, unzip, ws.hbang.repower, veency, rsync, com.autolead72.xcon, jetslammed, socat, com.autolead72.hookkeyboard, com.autolead72.icontool, com.cydiageek.coysim, com.autolead72.locationfaker8910
 Architecture: iphoneos-arm
 Filename: ./debs/hookkeyboard_7.2_iphoneos-arm.deb
-Size: 331818
-MD5sum: b283647f9d994cd93e32cace01e4a12d
-Description: Tweak for AutoLead  iOS 8 --- 10.2 .......................................
+Size: 331956
+MD5sum: 3594aae20d7bde3cdeed84323f1124e5
+Description: Tweak for AutoLead iOS 8 --- 10.2 .......................................
 Name: hookkeyboard
 Author: VoAazon <mena@geekforex.com>
-Depiction: http://45.77.32.187/repo/ioslead72/debs/com.autolead72.hookkeyboard/FILE/index.html
-Icon: http://itiaprepo.com/tiz38/test.png
 
-Package: com.autolead72.icontool
+Package: com.kdk72.icontool
 Version: 1.9
 Section: Tweaks
+Maintainer: NTNghia
+Depends: com.conradkramer.open, sqlite3, kr.iolate.simulatetouch, com.autopear.installipa, zip, jp.ashikase.mousesupport, sudo, ch.ringwald.hidsupport, com.rbt.useragentchanger, unzip, ws.hbang.repower, veency, rsync, com.autolead72.xcon, jetslammed, socat, com.autolead72.hookkeyboard, com.autolead72.icontool, com.cydiageek.coysim, com.autolead72.locationfaker8910
 Architecture: iphoneos-arm
 Filename: ./debs/icontool_1.9_iphoneos-arm.deb
-Size: 386104
-MD5sum: 6a99c535c6b300a14712eb2864dad742
+Size: 384364
+MD5sum: eb842b4adac463da70dd9a7486f64bc3
 Description: app tools menu from jiggle mode................................
 Name: Icon Tool
-Author: ioshack  <nofearlose@gmail.com>
-Depiction: http://45.77.32.187/repo/ioslead72/debs/com.autolead72.icontool/FILE/index.html
-Icon: http://itiaprepo.com/tiz38/test.png
+Author: ioshack <nofearlose@gmail.com>
 
-Package: com.autolead72.locationfaker8910
+Package: com.kdk72.locationfaker8910
 Version: 2.0
 Section: Tweaks
+Maintainer: NTNghia
+Depends: com.conradkramer.open, sqlite3, kr.iolate.simulatetouch, com.autopear.installipa, zip, jp.ashikase.mousesupport, sudo, ch.ringwald.hidsupport, com.rbt.useragentchanger, unzip, ws.hbang.repower, veency, rsync, com.autolead72.xcon, jetslammed, socat, com.autolead72.hookkeyboard, com.autolead72.icontool, com.cydiageek.coysim, com.autolead72.locationfaker8910
 Architecture: iphoneos-arm
 Filename: ./debs/locationfaker8910_2.0_iphoneos-arm.deb
-Size: 549966
-MD5sum: 6b69a63764261e2e4ed21cdf47a60d87
+Size: 550114
+MD5sum: 3afe4216126c16b7c72510f4c7ae6b99
 Description: change your location using a map Cracked.....................
 Name: LocationFaker(8,9,10)
-Author: Cunstuck  <mena@geekforex.com>
-Depiction: http://45.77.32.187/repo/ioslead72/debs/com.autolead72.locationfaker8910/FILE/index.html
-Icon: http://itiaprepo.com/tiz38/test.png
+Author: Cunstuck <mena@geekforex.com>
 
-Package: com.autolead72.xcon
+Package: com.kdk72.xcon
 Version: 4.2.1
 Section: Tweaks
+Maintainer: NTNghia
+Depends: com.conradkramer.open, sqlite3, kr.iolate.simulatetouch, com.autopear.installipa, zip, jp.ashikase.mousesupport, sudo, ch.ringwald.hidsupport, com.rbt.useragentchanger, unzip, ws.hbang.repower, veency, rsync, com.autolead72.xcon, jetslammed, socat, com.autolead72.hookkeyboard, com.autolead72.icontool, com.cydiageek.coysim, com.autolead72.locationfaker8910
 Architecture: iphoneos-arm
 Filename: ./debs/xcon_4.2.1_iphoneos-arm.deb
-Size: 141898
-MD5sum: cc0aebf02ad8c9e8a2fbaa3c13b4aac3
+Size: 142032
+MD5sum: 50220bd0498a4714c96331079623dd20
 Description: bypass anti-jailbreak protection..................................
 Name: xCon
-Author: Lunatik  <nofearlose@gmail.com>
-Depiction: http://45.77.32.187/repo/ioslead72/debs/com.autolead72.xcon/FILE/index.html
-Icon: http://itiaprepo.com/tiz38/test.png
+Author: Lunatik <nofearlose@gmail.com>
 
