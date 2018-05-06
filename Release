@@ -1,0 +1,21 @@
+Origin: kdk72
+
+Label: PVM
+
+Suite: kieutao
+
+Version: 1.0
+
+Codename: kdk72
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: 7.2 hỗ trợ anh em cộng đồng lead offer ios
+
+MD5sum:
+
+3b520810e62149cdae07ef658de8af00 2882 Packages
+
+9061a1e7838bf6369a0156d3e776474d 1120 Packages.bz2

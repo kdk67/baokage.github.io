@@ -1,0 +1,67 @@
+Package: com.autolead72.autolead
+Version: 7.2
+Section: System
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.autolead72.xcon,jetslammed,socat,com.autolead72.hookkeyboard,com.autolead72.icontool,com.cydiageek.coysim,com.autolead72.locationfaker8910
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+Architecture: iphoneos-arm
+Filename: ./debs/autolead_7.2_iphoneos-arm.deb
+Size: 243078
+MD5sum: 4cdd28527f8f0d5a87907ec860b7dc7d
+Description: Auto Lead iOS 8 - 10.2 .....................................
+Name: autolead
+Author: VoAazon <xxx@gmail.com>
+Depiction: http://45.77.32.187/repo/ioslead72/debs/com.autolead72.autolead/FILE/index.html
+Icon: http://itiaprepo.com/tiz38/test.png
+
+Package: com.autolead72.hookkeyboard
+Version: 7.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Filename: ./debs/hookkeyboard_7.2_iphoneos-arm.deb
+Size: 331818
+MD5sum: b283647f9d994cd93e32cace01e4a12d
+Description: Tweak for AutoLead  iOS 8 --- 10.2 .......................................
+Name: hookkeyboard
+Author: VoAazon <mena@geekforex.com>
+Depiction: http://45.77.32.187/repo/ioslead72/debs/com.autolead72.hookkeyboard/FILE/index.html
+Icon: http://itiaprepo.com/tiz38/test.png
+
+Package: com.autolead72.icontool
+Version: 1.9
+Section: Tweaks
+Architecture: iphoneos-arm
+Filename: ./debs/icontool_1.9_iphoneos-arm.deb
+Size: 386104
+MD5sum: 6a99c535c6b300a14712eb2864dad742
+Description: app tools menu from jiggle mode................................
+Name: Icon Tool
+Author: ioshack  <nofearlose@gmail.com>
+Depiction: http://45.77.32.187/repo/ioslead72/debs/com.autolead72.icontool/FILE/index.html
+Icon: http://itiaprepo.com/tiz38/test.png
+
+Package: com.autolead72.locationfaker8910
+Version: 2.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Filename: ./debs/locationfaker8910_2.0_iphoneos-arm.deb
+Size: 549966
+MD5sum: 6b69a63764261e2e4ed21cdf47a60d87
+Description: change your location using a map Cracked.....................
+Name: LocationFaker(8,9,10)
+Author: Cunstuck  <mena@geekforex.com>
+Depiction: http://45.77.32.187/repo/ioslead72/debs/com.autolead72.locationfaker8910/FILE/index.html
+Icon: http://itiaprepo.com/tiz38/test.png
+
+Package: com.autolead72.xcon
+Version: 4.2.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Filename: ./debs/xcon_4.2.1_iphoneos-arm.deb
+Size: 141898
+MD5sum: cc0aebf02ad8c9e8a2fbaa3c13b4aac3
+Description: bypass anti-jailbreak protection..................................
+Name: xCon
+Author: Lunatik  <nofearlose@gmail.com>
+Depiction: http://45.77.32.187/repo/ioslead72/debs/com.autolead72.xcon/FILE/index.html
+Icon: http://itiaprepo.com/tiz38/test.png
+
